@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: []()
-- Live Site URL: []()
+- Solution URL: https://www.frontendmentor.io/solutions/four-card-feature-section-html-css-flexbox-responsive-7_JuU0NfcQ
+- Live Site URL: https://leon2610.github.io/four-card-feature-section/
 
 ## My process
 
